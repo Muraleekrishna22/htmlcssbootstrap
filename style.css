@@ -181,3 +181,16 @@
     margin: 0.2rem;
 }
 
+.footer{
+    height: 5vh;
+    /* border: 2px solid red; */
+    background-color: black;
+  }
+  .footer h3{
+    text-align: center;
+    color: white;
+    font-size: smaller;
+    font-weight: 400;
+    padding: 1em;
+  }
+
